@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://raw.githubusercontent.com/Dev7Ayman/YoTS/master/downloads/xml/" walls="https://yothemes.yousefalbasha.com/walls/" scs="https://yothemes.yousefalbasha.com/screens/"/>
+<data xmls="https://raw.githubusercontent.com/Dev7Ayman/YoTS/master/downloads/xml/" walls="https://yothemes.yousefalbasha.com/walls/" scs="https://github.com/YoBasha/YoTS/raw/master/downloads/screens/"/>
 
 <theme>
 <title>Ayman_Test</title>
