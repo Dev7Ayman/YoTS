@@ -1,8 +1,12 @@
 {
 	"version": "25.0",
-	"download": "https://ymwhatsapp.com/",
+	"download": "https://t.me/Android_play_apks",
 	"update": [
 		{
+			"languaje": "ar",
+			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
+		},
+{
 			"languaje": "en",
 			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
 		},
