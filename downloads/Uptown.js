@@ -1,5 +1,5 @@
 {
-	"version": "25.0",
+	"version": "24.0",
 	"download": "https://t.me/Android_play_apks",
 	"update": [
 		{
