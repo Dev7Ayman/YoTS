@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "ar",
-			"changelog": "https://raw.githubusercontent.com/JesusMuentes/YM/main/changelog-en.html"
+			"changelog": "https://raw.githubusercontent.com/Dev7Ayman/YoTS/master/downloads/Uptown.html"
 		},
 {
 			"languaje": "en",
