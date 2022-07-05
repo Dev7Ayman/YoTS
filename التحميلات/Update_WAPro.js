@@ -1,5 +1,5 @@
 {
-	"version": "15.1",
+	"version": "1.5",
 	"download": "https://t.me/Android_play_apks",
 	"update": [
 		{
