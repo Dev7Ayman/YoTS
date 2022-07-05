@@ -1,6 +1,6 @@
 {
 	"version": "15.2",
-	"download": "https://ymwhatsapp.com/ymwa-business/",
+	"download": "https://t.me/Android_play_apks",
 	"update": [
 		{
 			"languaje": "ar",
