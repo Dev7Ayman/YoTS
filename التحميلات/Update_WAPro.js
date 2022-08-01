@@ -1,6 +1,6 @@
 {
 	"version": "1.5",
-	"download": "https://t.me/Android_play_apks",
+	"download": "https://t.me/MT_Mods",
 	"update": [
 		{
 			"languaje": "ar",
