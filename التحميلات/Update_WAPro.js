@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"download": "https://t.me/MT_Mods",
+	"download": "https://thetechnisk.in/mt-whatsapp/",
 	"update": [
 		{
 			"languaje": "ar",
