@@ -1,5 +1,5 @@
 {
-	"version": "2.0",
+	"version": "1.0",
 	"download": "https://thetechnisk.in/mt-whatsapp/",
 	"update": [
 		{
